@@ -1,70 +1,44 @@
-# Getting Started with Create React App
+🎬 Cinetag
+Projeto desenvolvido durante o curso da Alura, com o objetivo de criar uma aplicação de catálogo de vídeos utilizando React e outras tecnologias modernas do ecossistema JavaScript. O Cinetag permite navegar entre vídeos, visualizar trailers e organizá-los por categorias, com uma experiência de navegação fluida e responsiva.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+🚀 Funcionalidades
+Listagem de vídeos por categoria
 
-## Available Scripts
+Página de vídeo com player
 
-In the project directory, you can run:
+Navegação entre rotas com React Router
 
-### `npm start`
+Estilização modular com CSS Modules
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Gerenciamento de estado global com Context API
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Uso de hooks como useState, useEffect e useContext
 
-### `npm test`
+Consumo de uma API fake com fetch
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+🧠 Assuntos abordados durante o curso
+React – Componentização, estrutura de projetos e reatividade.
 
-### `npm run build`
+React Router DOM – Roteamento de páginas com parâmetros dinâmicos.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+CSS Modules – Estilização com escopo local.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Context API – Compartilhamento de estado global entre componentes.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Hooks – Utilização dos hooks principais: useState, useEffect, useContext.
 
-### `npm run eject`
+🛠️ Outras tecnologias utilizadas
+HTML5 – Estruturação semântica das páginas.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+CSS3 – Estilização dos componentes visuais.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+JavaScript (ES6+) – Lógica de programação, manipulação de dados, integração com APIs.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+💡 Complementos e aprendizados adicionais
+Consumo de APIs REST: Utilização do fetch para buscar dados em uma API fake com base em parâmetros dinâmicos.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Organização de projeto: Separação por pastas de componentes, páginas, contextos e estilos.
 
-## Learn More
+📚 Curso
+Este projeto foi desenvolvido com base no curso da plataforma [Alura](https://www.alura.com.br/), voltado para iniciantes em React.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
