@@ -4,40 +4,40 @@ Projeto desenvolvido durante o curso da Alura, com o objetivo de criar uma aplic
 🚀 Funcionalidades
 Listagem de vídeos por categoria
 
-Página de vídeo com player
+- Página de vídeo com player
 
-Navegação entre rotas com React Router
+- Navegação entre rotas com React Router
 
-Estilização modular com CSS Modules
+- Estilização modular com CSS Modules
 
-Gerenciamento de estado global com Context API
+- Gerenciamento de estado global com Context API
 
-Uso de hooks como useState, useEffect e useContext
+- Uso de hooks como useState, useEffect e useContext
 
-Consumo de uma API fake com fetch
+- Consumo de uma API fake com fetch
 
 🧠 Assuntos abordados durante o curso
-React – Componentização, estrutura de projetos e reatividade.
+- React – Componentização, estrutura de projetos e reatividade.
 
-React Router DOM – Roteamento de páginas com parâmetros dinâmicos.
+- React Router DOM – Roteamento de páginas com parâmetros dinâmicos.
 
-CSS Modules – Estilização com escopo local.
+- CSS Modules – Estilização com escopo local.
 
-Context API – Compartilhamento de estado global entre componentes.
+- Context API – Compartilhamento de estado global entre componentes.
 
-Hooks – Utilização dos hooks principais: useState, useEffect, useContext.
+- Hooks – Utilização dos hooks principais: useState, useEffect, useContext.
 
 🛠️ Outras tecnologias utilizadas
-HTML5 – Estruturação semântica das páginas.
+- HTML5 – Estruturação semântica das páginas.
 
-CSS3 – Estilização dos componentes visuais.
+- CSS3 – Estilização dos componentes visuais.
 
-JavaScript (ES6+) – Lógica de programação, manipulação de dados, integração com APIs.
+- JavaScript (ES6+) – Lógica de programação, manipulação de dados, integração com APIs.
 
 💡 Complementos e aprendizados adicionais
-Consumo de APIs REST: Utilização do fetch para buscar dados em uma API fake com base em parâmetros dinâmicos.
+- Consumo de APIs REST: Utilização do fetch para buscar dados em uma API fake com base em parâmetros dinâmicos.
 
-Organização de projeto: Separação por pastas de componentes, páginas, contextos e estilos.
+- Organização de projeto: Separação por pastas de componentes, páginas, contextos e estilos.
 
 📚 Curso
 Este projeto foi desenvolvido com base no curso da plataforma [Alura](https://www.alura.com.br/), voltado para iniciantes em React.
