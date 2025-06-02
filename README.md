@@ -1,4 +1,5 @@
 🎬 Cinetag
+
 Projeto desenvolvido durante o curso da Alura, com o objetivo de criar uma aplicação de catálogo de vídeos utilizando React e outras tecnologias modernas do ecossistema JavaScript. O Cinetag permite navegar entre vídeos, visualizar trailers e organizá-los por categorias, com uma experiência de navegação fluida e responsiva.
 
 🚀 Funcionalidades
